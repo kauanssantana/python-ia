@@ -34,4 +34,4 @@ Bancos recebem milhares de solicitações de crédito diariamente. Analisar manu
 
    ---
 
-   Desenvolvido por Kauan Santana
+## Desenvolvido por Kauan Santana
