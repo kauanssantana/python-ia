@@ -1,4 +1,4 @@
-# 🤖 Previsão de Score de Crédito com Inteligência Artificial
+# Previsão de Score de Crédito com Inteligência Artificial
 
 Este projeto aplica técnicas de Machine Learning para automatizar a análise de score de crédito de clientes de um banco. A partir de dados históricos, a Inteligência Artificial aprende a classificar novos clientes em três categorias de risco: **Ruim (Poor), Ok (Standard) ou Bom (Good)**.
 
